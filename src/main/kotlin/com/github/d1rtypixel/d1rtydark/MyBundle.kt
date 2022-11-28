@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.d1rtypixel.d1rtydark
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

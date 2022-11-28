@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.d1rtypixel.d1rtydark.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.d1rtypixel.d1rtydark.MyBundle
 
 class MyApplicationService {
 
